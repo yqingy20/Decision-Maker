@@ -1,0 +1,12 @@
+[
+    {
+        "decisionID": 1,
+        "decisionName": "study chemistry",
+        "decisionAddress": "ikb"
+    },
+    {
+        "decisionID": 2,
+        "decisionName": "sleeping",
+        "decisionAddress": "home"
+    }
+]
